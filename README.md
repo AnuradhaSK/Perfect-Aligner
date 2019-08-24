@@ -26,5 +26,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  - Navigate to **Perfect-Aligner/client/perfect-aligner** 
  - Open a terminal and issue
 > npm install
+
 > ng serve --proxy-config proxy.conf.json
  - Browse http://localhost:4200/
