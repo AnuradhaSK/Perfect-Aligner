@@ -25,5 +25,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
  - Deploy the war file at path **Perfect-Aligner/target/PerfectAligner.war**
  - Navigate to **Perfect-Aligner/client/perfect-aligner** 
  - Open a terminal and issue
+> npm install
 > ng serve --proxy-config proxy.conf.json
  - Browse http://localhost:4200/
