@@ -29,3 +29,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 > ng serve --proxy-config proxy.conf.json
  - Browse http://localhost:4200/
+
+## Sample fasta file
+You can find a sample fasta file which contains aligned sequences from **Perfect-Aligner/sample-fasta-file/sample.fasta**
